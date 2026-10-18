@@ -11,7 +11,7 @@
 
 ### Team Members
 - Team Lead: Sanjana Sujith - Muthoot Institute of Technology and Science
-- Team Member 2: Aafia Gause - Muthoot Institute of Technology and Science
+- Team Member: Aafia Gause - Muthoot Institute of Technology and Science
 
 ### Project Description
 Shine a light, make a shadow and let the puppets come alive. 
